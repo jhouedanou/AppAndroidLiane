@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet RC/LIANE</string>
+    <string name="menu_settings">Settings</string>
+    <string name="tab_art">Offres des PTF</string>
+    <string name="tab_tech">Actualités</string>
+    <string name="tab_sports">Base de données OSC</string>
+</resources>
